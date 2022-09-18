@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eef0dce5;
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+  color: rgb(22, 22, 34);
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.main-page-body {
+  background-image: url("./recipes/img/pexels-ray-piedra-1565982.jpg");
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.main-header {
+  color: white;
+  padding: 20px;
+}
+
+.main-link-list,
+a {
+  color: white;
+}
